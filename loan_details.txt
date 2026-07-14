@@ -1,0 +1,7 @@
+Loan Details:
+Principal Amount: 75550
+Annual Interest Rate: 10
+Tenure (Years): 7
+EMI: 1254.22
+Total Payment: 105354.43
+Total Interest: 29804.43
